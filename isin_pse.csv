@@ -1,0 +1,501 @@
+﻿,Company ID,Stock Code,ISIN
+0,1,MB,PHY5764D1091
+1,2,KEEPR,PHY4630V1045
+2,3,MAH,PHY602711061
+3,4,IPM,PHY4256D1073
+4,5,Stock Code not found,ISIN not found
+5,6,TEL,PHY7072Q1032
+6,7,PNC,PHY7028M1072
+7,8,TFC,PHY7139G1068
+8,9,BCOR,PHY0860R1024
+9,10,Stock Code not found,ISIN not found
+10,11,Stock Code not found,ISIN not found
+11,12,LTG,PHY5342M1000
+12,13,BRN,PHY000221069
+13,14,ANS,PHY8068W1129
+14,15,ABSP,PHY000271056
+15,16,AEV,PHY0001Z1040
+16,17,Stock Code not found,ISIN not found
+17,18,Stock Code not found,ISIN not found
+18,19,AB,PHY044931210
+19,20,PAL,PHY6687L1036
+20,21,BEL,PHY0775S1043
+21,22,UNH,PH0000058851
+22,23,Stock Code not found,ISIN not found
+23,24,MJIC,PHY6065G1068
+24,25,FEU,PHY248161036
+25,26,ALLHC,PHY0490Q1023
+26,27,Stock Code not found,ISIN not found
+27,28,VITA,PHY937931186
+28,29,Stock Code not found,ISIN not found
+29,30,PRIM,PHY7084E1065
+30,31,DHI,PHY0775G1005
+31,32,SECB,PHY7571C1000
+32,33,AR,PHY0200M1028
+33,34,AT,PHY0434M1265
+34,35,Stock Code not found,ISIN not found
+35,36,DITO,PHY3004J1017
+36,37,LODE,PHY5342J1310
+37,38,ARA,PHY0203L1190
+38,39,CDC,PHY122051295
+39,40,RLT,PHY6956R1380
+40,41,SLI,PHY8152X1091
+41,42,Stock Code not found,ISIN not found
+42,43,OPM,PHY654111111
+43,44,Stock Code not found,ISIN not found
+44,45,OV,PHY8791A1483
+45,46,ECVC,PH0000059099
+46,47,Stock Code not found,ISIN not found
+47,48,ACE,PHY2063J1017
+48,49,BLOOM,PHY0927M1046
+49,50,COSCO,PHY1765W1054
+50,51,Stock Code not found,ISIN not found
+51,52,APO,PHY0136Q1288
+52,53,ATI,PHY0367R1006
+53,54,RCI,PHY7331W1072
+54,55,AAA,PHY030431175
+55,56,ATN,PHY044891869
+56,57,AC,PHY0486V1154
+57,58,Stock Code not found,ISIN not found
+58,59,Stock Code not found,ISIN not found
+59,60,BSC,PHY0718K1017
+60,61,LPZ,PHY5347P1085
+61,62,BH,PHY0885Q1059
+62,63,BHI,PHY095231122
+63,64,ROX,PHY733251052
+64,65,V,PHY935661009
+65,66,BKR,PHY096AT1065
+66,67,CYBR,PHY185371036
+67,68,DIZ,PHY207841156
+68,69,GLO,PHY272571498
+69,70,ECP,PHY2235X1459
+70,71,EEI,PHY2249U1035
+71,72,Stock Code not found,ISIN not found
+72,73,SUN,PHY831501051
+73,74,Stock Code not found,ISIN not found
+74,75,FDC,PHY247771496
+75,76,PTT,PH0000059107
+76,77,RFM,PHY727881542
+77,78,SLF,CA8667961053
+78,79,VVT,PHY9379Y1020
+79,80,FYN,PHY2493B1080
+80,81,FAF,PHY2495T1070
+81,82,HI,PHY3724Q1041
+82,83,ICT,PHY411571011
+83,84,INFRA,PHY6908B1080
+84,85,IPO,PHY4176Q1398
+85,86,JFC,PHY4466S1007
+86,87,KPH,PHY4737K1008
+87,88,KEP,PHY4738E1039
+88,89,ZHI,PHY9890F1031
+89,90,WIN,PHY9534C1028
+90,91,Stock Code not found,ISIN not found
+91,92,Stock Code not found,ISIN not found
+92,93,Stock Code not found,ISIN not found
+93,94,GSMI,PHY2709M1046
+94,95,Stock Code not found,ISIN not found
+95,96,PLUS,PHY525731394
+96,97,PHC,PHY6896D1165
+97,98,LC,PH5267322015
+98,99,Stock Code not found,ISIN not found
+99,100,MVC,PHY5362Y1092
+100,101,Stock Code not found,ISIN not found
+101,102,MJC,PHY6131D1038
+102,103,NI,PHY6350C1090
+103,104,PMPC,PHY666511035
+104,105,MG,PHY6050E1166
+105,106,MAC,PHY5369R1078
+106,107,PHN,PHY7137Q1068
+107,108,BC,PHY078321353
+108,109,PA,PHY6653Y1056
+109,110,Stock Code not found,ISIN not found
+110,111,Stock Code not found,ISIN not found
+111,112,SMPH,PHY8076N1120
+112,113,Stock Code not found,ISIN not found
+113,114,ABS,PHY0006V1080
+114,115,LSC,PHY5345Q1086
+115,116,Stock Code not found,ISIN not found
+116,117,MBC,PHY5906Q1095
+117,118,MER,PHY5764J1483
+118,119,MA,PHY5764P1022
+119,120,MFC,CA56501R1064
+120,121,ACR,PHY0093E1002
+121,122,WEB,PHY7134C1679
+122,123,VMC,PHY936601350
+123,124,URC,PHY9297P1004
+124,125,Stock Code not found,ISIN not found
+125,126,MED,PHY5943H1125
+126,127,MEG,PHY594811127
+127,128,MBT,PHY6028G1361
+128,129,PORT,PHY6395D1047
+129,130,Stock Code not found,ISIN not found
+130,131,MRC,PH0000057705
+131,132,GREEN,PHY2886E1157
+132,133,Stock Code not found,ISIN not found
+133,134,JAS,PHY4235K1070
+134,135,MAXS,PHY5906K1026
+135,136,PCOR,PHY6885F1067
+136,137,PX,PHY689911352
+137,138,PHES,PHY6903J1145
+138,139,PNB,PHY7027H1583
+139,140,Stock Code not found,ISIN not found
+140,141,PRC,PHY7078S1034
+141,142,PSB,PHY6954H1160
+142,143,SEVN,PHY6955M1063
+143,144,PTC,PHY6965Q1059
+144,145,MACAY,PHY5364E1011
+145,146,Stock Code not found,ISIN not found
+146,147,STR,PHY9390P1067
+147,148,PHA,PHY7092E1065
+148,149,Stock Code not found,ISIN not found
+149,150,PPC,PHY7115M1274
+150,151,FB,PHY7510J1668
+151,152,Stock Code not found,ISIN not found
+152,153,REG,PHY7243J1290
+153,154,SMC,PHY751061151
+154,155,Stock Code not found,ISIN not found
+155,156,SPM,PHY7546H1353
+156,157,SCC,PHY7628G1124
+157,158,Stock Code not found,ISIN not found
+158,159,Stock Code not found,ISIN not found
+159,160,SGI,PHY8070V1027
+160,161,SOC,PHY8076K1008
+161,162,Stock Code not found,ISIN not found
+162,163,T,PHY8846P1085
+163,164,STN,PHY8169J1017
+164,165,SFI,PHY8321K1035
+165,166,SGP,PHY8321B1036
+166,167,UBP,PHY9091H1069
+167,168,UPM,PHY9246Y1112
+168,169,Stock Code not found,ISIN not found
+169,170,Stock Code not found,ISIN not found
+170,171,Stock Code not found,ISIN not found
+171,172,ALCO,PHY0206K1008
+172,173,WPI,PHY953131059
+173,174,ABA,PHY0011J1089
+174,175,MARC,PHY6131Y1157
+175,176,ABG,PHY030541064
+176,177,APC,PHY0163E1213
+177,178,APX,PHY017801408
+178,179,NXGEN,PHY6340L1027
+179,180,ALI,PHY0488F1004
+180,181,BMM,PH0972211058
+181,182,Stock Code not found,ISIN not found
+182,183,CAT,PHY124141193
+183,184,CBC,PHY138161229
+184,185,Stock Code not found,ISIN not found
+185,186,CEI,PHY1808T1199
+186,187,DFNN,PHY2059A1061
+187,188,DMC,PHY2088F1004
+188,189,CPG,PHY1275E1083
+189,190,ELI,PHY2289K1061
+190,191,EVER,PHY2362X1082
+191,192,MGH,PHY6030E1039
+192,193,GERI,PHY2715C1081
+193,194,PAX,PHY6760D1010
+194,195,RLC,PHY731961264
+195,196,FFI,PHY2491F1195
+196,197,FPH,PHY2558N1203
+197,198,GEO,PHY2699D1064
+198,199,Stock Code not found,ISIN not found
+199,200,Stock Code not found,ISIN not found
+200,201,IMP,PHY3903M1485
+201,202,Stock Code not found,ISIN not found
+202,203,ION,PHY4177R1024
+203,204,IS,PHY4178L1045
+204,205,LMG,PHY533151007
+205,206,MHC,PHY536271240
+206,207,OM,PHY647631407
+207,208,PBC,PHY690211636
+208,209,LAND,PHY1640V1080
+209,210,JGS,PHY444251177
+210,211,Stock Code not found,ISIN not found
+211,212,AGI,PHY003341054
+212,213,CA,PHY104151006
+213,214,PRMX,PHY708151162
+214,215,Stock Code not found,ISIN not found
+215,216,Stock Code not found,ISIN not found
+216,217,Stock Code not found,ISIN not found
+217,218,SHNG,PHY7700B1062
+218,219,EURO,PHY2352T1098
+219,220,FPI,PHY2617A1017
+220,221,GPH,PHY284721016
+221,222,STI,PHY8171Y1048
+222,223,CEU,PHY124441163
+223,224,FNI,PHY2715L1163
+224,225,FJP,PHY9045V1027
+225,226,FLI,PHY249161019
+226,227,LFM,PHY5274K1061
+227,228,CSB,PHY1660Y1074
+228,229,Stock Code not found,ISIN not found
+229,230,Stock Code not found,ISIN not found
+230,231,Stock Code not found,ISIN not found
+231,232,RCB,PHY7311H1463
+232,233,ACEN,PHY1001H1024
+233,234,BPI,PHY0967S1694
+234,235,Stock Code not found,ISIN not found
+235,236,LBC,PHY5228G1023
+236,237,SPC,PHY8120B1062
+237,238,Stock Code not found,ISIN not found
+238,239,Stock Code not found,ISIN not found
+239,240,Stock Code not found,ISIN not found
+240,241,Stock Code not found,ISIN not found
+241,242,Stock Code not found,ISIN not found
+242,243,Stock Code not found,ISIN not found
+243,244,Stock Code not found,ISIN not found
+244,245,Stock Code not found,ISIN not found
+245,246,Stock Code not found,ISIN not found
+246,247,Stock Code not found,ISIN not found
+247,248,Stock Code not found,ISIN not found
+248,249,Stock Code not found,ISIN not found
+249,250,Stock Code not found,ISIN not found
+250,251,Stock Code not found,ISIN not found
+251,252,Stock Code not found,ISIN not found
+252,253,Stock Code not found,ISIN not found
+253,254,Stock Code not found,ISIN not found
+254,255,Stock Code not found,ISIN not found
+255,256,Stock Code not found,ISIN not found
+256,257,Stock Code not found,ISIN not found
+257,258,Stock Code not found,ISIN not found
+258,259,Stock Code not found,ISIN not found
+259,260,BDO,PHY077751022
+260,261,JOH,PHY4467A1089
+261,262,Stock Code not found,ISIN not found
+262,263,MFIN,PHY5419Q1095
+263,264,NOW,PHY6389H1116
+264,265,Stock Code not found,ISIN not found
+265,266,Stock Code not found,ISIN not found
+266,267,Stock Code not found,ISIN not found
+267,268,Stock Code not found,ISIN not found
+268,269,TBGI,PHY8970N2000
+269,270,MWC,PHY569991086
+270,271,Stock Code not found,ISIN not found
+271,272,Stock Code not found,ISIN not found
+272,273,Stock Code not found,ISIN not found
+273,274,Stock Code not found,ISIN not found
+274,275,Stock Code not found,ISIN not found
+275,276,Stock Code not found,ISIN not found
+276,277,Stock Code not found,ISIN not found
+277,278,Stock Code not found,ISIN not found
+278,279,Stock Code not found,ISIN not found
+279,280,Stock Code not found,ISIN not found
+280,281,Stock Code not found,ISIN not found
+281,282,Stock Code not found,ISIN not found
+282,283,Stock Code not found,ISIN not found
+283,284,Stock Code not found,ISIN not found
+284,285,Stock Code not found,ISIN not found
+285,286,Stock Code not found,ISIN not found
+286,287,Stock Code not found,ISIN not found
+287,288,Stock Code not found,ISIN not found
+288,289,Stock Code not found,ISIN not found
+289,290,Stock Code not found,ISIN not found
+290,291,Stock Code not found,ISIN not found
+291,292,Stock Code not found,ISIN not found
+292,293,Stock Code not found,ISIN not found
+293,294,Stock Code not found,ISIN not found
+294,295,Stock Code not found,ISIN not found
+295,296,Stock Code not found,ISIN not found
+296,297,Stock Code not found,ISIN not found
+297,298,Stock Code not found,ISIN not found
+298,299,Stock Code not found,ISIN not found
+299,300,Stock Code not found,ISIN not found
+300,301,Stock Code not found,ISIN not found
+301,302,Stock Code not found,ISIN not found
+302,303,Stock Code not found,ISIN not found
+303,304,Stock Code not found,ISIN not found
+304,305,Stock Code not found,ISIN not found
+305,306,Stock Code not found,ISIN not found
+306,307,Stock Code not found,ISIN not found
+307,308,Stock Code not found,ISIN not found
+308,309,Stock Code not found,ISIN not found
+309,310,Stock Code not found,ISIN not found
+310,311,Stock Code not found,ISIN not found
+311,312,Stock Code not found,ISIN not found
+312,313,Stock Code not found,ISIN not found
+313,314,Stock Code not found,ISIN not found
+314,315,Stock Code not found,ISIN not found
+315,316,Stock Code not found,ISIN not found
+316,317,Stock Code not found,ISIN not found
+317,318,Stock Code not found,ISIN not found
+318,319,Stock Code not found,ISIN not found
+319,320,Stock Code not found,ISIN not found
+320,321,Stock Code not found,ISIN not found
+321,322,Stock Code not found,ISIN not found
+322,323,Stock Code not found,ISIN not found
+323,324,Stock Code not found,ISIN not found
+324,325,Stock Code not found,ISIN not found
+325,326,Stock Code not found,ISIN not found
+326,327,Stock Code not found,ISIN not found
+327,328,Stock Code not found,ISIN not found
+328,329,Stock Code not found,ISIN not found
+329,330,Stock Code not found,ISIN not found
+330,331,Stock Code not found,ISIN not found
+331,332,Stock Code not found,ISIN not found
+332,333,Stock Code not found,ISIN not found
+333,334,Stock Code not found,ISIN not found
+334,335,Stock Code not found,ISIN not found
+335,336,Stock Code not found,ISIN not found
+336,337,Stock Code not found,ISIN not found
+337,338,Stock Code not found,ISIN not found
+338,339,Stock Code not found,ISIN not found
+339,340,Stock Code not found,ISIN not found
+340,341,Stock Code not found,ISIN not found
+341,342,Stock Code not found,ISIN not found
+342,343,Stock Code not found,ISIN not found
+343,344,Stock Code not found,ISIN not found
+344,345,Stock Code not found,ISIN not found
+345,346,Stock Code not found,ISIN not found
+346,347,Stock Code not found,ISIN not found
+347,348,Stock Code not found,ISIN not found
+348,349,Stock Code not found,ISIN not found
+349,350,Stock Code not found,ISIN not found
+350,351,Stock Code not found,ISIN not found
+351,352,Stock Code not found,ISIN not found
+352,353,Stock Code not found,ISIN not found
+353,354,Stock Code not found,ISIN not found
+354,355,Stock Code not found,ISIN not found
+355,356,Stock Code not found,ISIN not found
+356,357,Stock Code not found,ISIN not found
+357,358,Stock Code not found,ISIN not found
+358,359,Stock Code not found,ISIN not found
+359,360,Stock Code not found,ISIN not found
+360,361,Stock Code not found,ISIN not found
+361,362,Stock Code not found,ISIN not found
+362,363,Stock Code not found,ISIN not found
+363,364,Stock Code not found,ISIN not found
+364,365,Stock Code not found,ISIN not found
+365,366,Stock Code not found,ISIN not found
+366,367,Stock Code not found,ISIN not found
+367,368,Stock Code not found,ISIN not found
+368,369,Stock Code not found,ISIN not found
+369,370,Stock Code not found,ISIN not found
+370,371,Stock Code not found,ISIN not found
+371,372,Stock Code not found,ISIN not found
+372,373,Stock Code not found,ISIN not found
+373,374,Stock Code not found,ISIN not found
+374,375,Stock Code not found,ISIN not found
+375,376,Stock Code not found,ISIN not found
+376,377,Stock Code not found,ISIN not found
+377,378,Stock Code not found,ISIN not found
+378,379,Stock Code not found,ISIN not found
+379,380,Stock Code not found,ISIN not found
+380,381,Stock Code not found,ISIN not found
+381,382,Stock Code not found,ISIN not found
+382,383,Stock Code not found,ISIN not found
+383,384,Stock Code not found,ISIN not found
+384,385,Stock Code not found,ISIN not found
+385,386,Stock Code not found,ISIN not found
+386,387,Stock Code not found,ISIN not found
+387,388,Stock Code not found,ISIN not found
+388,389,Stock Code not found,ISIN not found
+389,390,Stock Code not found,ISIN not found
+390,391,Stock Code not found,ISIN not found
+391,392,Stock Code not found,ISIN not found
+392,393,Stock Code not found,ISIN not found
+393,394,Stock Code not found,ISIN not found
+394,395,Stock Code not found,ISIN not found
+395,396,Stock Code not found,ISIN not found
+396,397,Stock Code not found,ISIN not found
+397,398,Stock Code not found,ISIN not found
+398,399,Stock Code not found,ISIN not found
+399,400,Stock Code not found,ISIN not found
+400,401,Stock Code not found,ISIN not found
+401,402,Stock Code not found,ISIN not found
+402,403,Stock Code not found,ISIN not found
+403,404,Stock Code not found,ISIN not found
+404,405,Stock Code not found,ISIN not found
+405,406,Stock Code not found,ISIN not found
+406,407,Stock Code not found,ISIN not found
+407,408,Stock Code not found,ISIN not found
+408,409,Stock Code not found,ISIN not found
+409,410,Stock Code not found,ISIN not found
+410,411,Stock Code not found,ISIN not found
+411,412,Stock Code not found,ISIN not found
+412,413,Stock Code not found,ISIN not found
+413,414,Stock Code not found,ISIN not found
+414,415,Stock Code not found,ISIN not found
+415,416,Stock Code not found,ISIN not found
+416,417,Stock Code not found,ISIN not found
+417,418,Stock Code not found,ISIN not found
+418,419,Stock Code not found,ISIN not found
+419,420,Stock Code not found,ISIN not found
+420,421,Stock Code not found,ISIN not found
+421,422,Stock Code not found,ISIN not found
+422,423,Stock Code not found,ISIN not found
+423,424,Stock Code not found,ISIN not found
+424,425,Stock Code not found,ISIN not found
+425,426,Stock Code not found,ISIN not found
+426,427,Stock Code not found,ISIN not found
+427,428,Stock Code not found,ISIN not found
+428,429,Stock Code not found,ISIN not found
+429,430,Stock Code not found,ISIN not found
+430,431,Stock Code not found,ISIN not found
+431,432,Stock Code not found,ISIN not found
+432,433,Stock Code not found,ISIN not found
+433,434,Stock Code not found,ISIN not found
+434,435,Stock Code not found,ISIN not found
+435,436,Stock Code not found,ISIN not found
+436,437,Stock Code not found,ISIN not found
+437,438,Stock Code not found,ISIN not found
+438,439,Stock Code not found,ISIN not found
+439,440,Stock Code not found,ISIN not found
+440,441,Stock Code not found,ISIN not found
+441,442,Stock Code not found,ISIN not found
+442,443,Stock Code not found,ISIN not found
+443,444,Stock Code not found,ISIN not found
+444,445,Stock Code not found,ISIN not found
+445,446,Stock Code not found,ISIN not found
+446,447,Stock Code not found,ISIN not found
+447,448,Stock Code not found,ISIN not found
+448,449,Stock Code not found,ISIN not found
+449,450,Stock Code not found,ISIN not found
+450,451,Stock Code not found,ISIN not found
+451,452,Stock Code not found,ISIN not found
+452,453,Stock Code not found,ISIN not found
+453,454,Stock Code not found,ISIN not found
+454,455,Stock Code not found,ISIN not found
+455,456,Stock Code not found,ISIN not found
+456,457,Stock Code not found,ISIN not found
+457,458,Stock Code not found,ISIN not found
+458,459,Stock Code not found,ISIN not found
+459,460,Stock Code not found,ISIN not found
+460,461,Stock Code not found,ISIN not found
+461,462,Stock Code not found,ISIN not found
+462,463,Stock Code not found,ISIN not found
+463,464,Stock Code not found,ISIN not found
+464,465,Stock Code not found,ISIN not found
+465,466,Stock Code not found,ISIN not found
+466,467,Stock Code not found,ISIN not found
+467,468,Stock Code not found,ISIN not found
+468,469,Stock Code not found,ISIN not found
+469,470,Stock Code not found,ISIN not found
+470,471,Stock Code not found,ISIN not found
+471,472,Stock Code not found,ISIN not found
+472,473,Stock Code not found,ISIN not found
+473,474,Stock Code not found,ISIN not found
+474,475,Stock Code not found,ISIN not found
+475,476,Stock Code not found,ISIN not found
+476,477,Stock Code not found,ISIN not found
+477,478,PSE,PHY6957L1062
+478,479,SRDC,PHY8311A1070
+479,480,Stock Code not found,ISIN not found
+480,481,Stock Code not found,ISIN not found
+481,482,Stock Code not found,ISIN not found
+482,483,Stock Code not found,ISIN not found
+483,484,Stock Code not found,ISIN not found
+484,485,Stock Code not found,ISIN not found
+485,486,Stock Code not found,ISIN not found
+486,487,Stock Code not found,ISIN not found
+487,488,Stock Code not found,ISIN not found
+488,489,Stock Code not found,ISIN not found
+489,490,Stock Code not found,ISIN not found
+490,491,Stock Code not found,ISIN not found
+491,492,Stock Code not found,ISIN not found
+492,493,Stock Code not found,ISIN not found
+493,494,Stock Code not found,ISIN not found
+494,495,Stock Code not found,ISIN not found
+495,496,Stock Code not found,ISIN not found
+496,497,Stock Code not found,ISIN not found
+497,498,Stock Code not found,ISIN not found
+498,499,Stock Code not found,ISIN not found
+499,500,Stock Code not found,ISIN not found
